@@ -1,5 +1,5 @@
 <?php
-
+namespace Formacom\core;
 abstract class Controller
 {
     abstract public function index(...$params);

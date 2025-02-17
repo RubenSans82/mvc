@@ -1,7 +1,7 @@
 <?php
 
 require 'vendor/autoload.php'; // Autocarga de Composer
-require 'config.php'; // Configuración de la base de datos
+require 'config/config.php'; // Configuración de la base de datos
 
 use Illuminate\Database\Capsule\Manager as Capsule;
 
